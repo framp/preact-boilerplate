@@ -20,8 +20,8 @@ export default class App extends Component {
 				<Header />
 				<Router onChange={this.handleRoute}>
 					<Home path="/" />
-					<Profile path="/profile/" user="me" />
-					<Profile path="/profile/:user" />
+					<Profile path="/profile/" user="me" time={this.props.time} counter={this.props.counter} />
+					<Profile path="/profile/:user" time={this.props.time} counter={this.props.counter} />
 				</Router>
 			</div>
 		);
