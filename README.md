@@ -1,15 +1,8 @@
-# Preact Boilerplate / Starter Kit
+# Storry Preact Boilerplate Example
 
-[![Build Status](https://travis-ci.org/developit/preact-boilerplate.svg?branch=master)](https://travis-ci.org/developit/preact-boilerplate)
-[![gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/developit/preact)
+Example of implementing storry in the wonderful [preact-boilerplace](https://github.com/developit/preact-boilerplate).
 
-> :guitar: Ready-to-rock [Preact] starter project, powered by [webpack].
->
-> :rocket: If you're starting a new project using [Preact], you've come to the right place.
-Below is a step-by-step guide that takes you straight from downloading this boilerplate to production.
->
-> **[:boom: View Demo :boom:](https://preact-boilerplate.surge.sh)**
-
+Original Readme below
 
 ---
 
