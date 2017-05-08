@@ -1,4 +1,4 @@
-import store from '../../store'
+import store from '../../store';
 
 export const increaseCounter = (user) =>
 	store.action((state) =>

@@ -93,6 +93,6 @@
     "promise-polyfill": "^6.0.2",
     "proptypes": "^1.0.0",
     "serve": "^5.1.4",
-    "storry": "^0.1.1"
+    "storry": "^0.1.3"
   }
 }
