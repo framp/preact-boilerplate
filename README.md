@@ -1,6 +1,6 @@
 # Storry Preact Boilerplate Example
 
-Example of implementing storry in the wonderful [preact-boilerplace](https://github.com/developit/preact-boilerplate).
+Example of implementing storry in the wonderful [preact-boilerplate](https://github.com/developit/preact-boilerplate).
 
 Original Readme below
 
